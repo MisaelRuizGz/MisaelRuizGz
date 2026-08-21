@@ -8,6 +8,7 @@
   SWE student @ UVU · Backend / DevOps Focus · building TUIs and sci-fi inspired side projects 
 </p>
 
+---
 ### About Me
 - **Currently building:** a terminal UI "starship computer" — it boots up in-character, reports real system/weather/time data framed as ship diagnostics, and keeps a persistent captain's log.
 - **Currently exploring:** Cloud/SRE tooling (Docker, Kubernetes, Terraform)
@@ -32,15 +33,10 @@ A full-stack typing speed app. FastAPI backend on Render, Cloudflare Pages front
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### GitHub Stats
+
 ### GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MisaelRuizGz&show_icons=true&theme=tokyonight&title_color=1b5448&icon_color=1b5448&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MisaelRuizGz&layout=compact&theme=tokyonight&title_color=1b5448&icon_color=1b5448&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=MisaelRuizGz&theme=tokyonight&hide_border=true&background=00000000&ring=1b5448&fire=1b5448&currStreakLabel=56d4dd" alt="streak stats" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/MisaelRuizGz">MisaelRuizGz</a></i></p>
