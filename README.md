@@ -38,5 +38,5 @@ A full-stack typing speed app. FastAPI backend on Render, Cloudflare Pages front
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=MisaelRuizGz&show_icons=true&theme=tokyonight&title_color=1b5448&icon_color=1b5448&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=MisaelRuizGz&layout=compact&theme=tokyonight&title_color=1b5448&icon_color=1b5448&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
----
+  
 <p align="center"><i>⭐️ From <a href="https://github.com/MisaelRuizGz">MisaelRuizGz</a></i></p>
