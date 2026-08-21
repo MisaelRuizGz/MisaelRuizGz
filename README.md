@@ -1,7 +1,9 @@
 <p align="center">
-  <a href="https://github.com/MisaelRuizGz">
-    <img src="assets/header-name.png" alt="Misael Ruiz-Gomez" width="500" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=40&pause=10000&repeat=false&color=1B5448&center=true&vCenter=true&width=500&height=60&lines=Misael+Ruiz-Gomez" alt="Misael Ruiz-Gomez" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&pause=10000&repeat=false&color=56d4dd&center=true&vCenter=true&width=460&height=40&lines=Software+Engineering+Student" alt="Software Engineering Student" />
+</p>
 </p>
   SWE student @ UVU · Backend / DevOps Focus · building TUIs and sci-fi inspired side projects 
 </p>
