@@ -1,31 +1,28 @@
 <p align="center">
   <a href="https://github.com/MisaelRuizGz">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1b5448&fontSize=54&height=90&width=634&text=Misael%20Ruiz-Gomez" alt="Misael Ruiz-Gomez" />
+    <img src="assets/header-name.png" alt="Misael Ruiz-Gomez" width="500" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=460&height=44&lines=Software%20Engineering%20Student" alt="Typing headlines" />
 </p>
-
 <p align="center">
   SWE student @ UVU · Backend / DevOps Focus · building TUIs and sci-fi inspired side projects 
 </p>
 
-###  About Me
+### About Me
 Software Engineering Student,  
- &nbsp;I'm currently working on **a terminal UI "starship computer".  Boots up in-character, reports real system/weather/time data framed as ship diagnostics, and keeps a persistent captain's log.**  
- &nbsp;I'm currently exploring **cloud/SRE tooling (Docker, Kubernetes, Terraform)** 
- 
-### Featured Projects
+&nbsp;I'm currently working on a terminal UI "starship computer". Boots up in-character, reports real system/weather/time data framed as ship diagnostics, and keeps a persistent captain's log.  
+&nbsp;I'm currently exploring Cloud/SRE tooling (Docker, Kubernetes, Terraform)
 
+### Featured Projects
 **[ships-computer](https://github.com/MisaelRuizGz/ships-computer)**  
 A sci-fi themed terminal UI app (Go, Bubble Tea, Lip Gloss) — Act 1 of a larger terminal-based space exploration game. Reports live system/weather data framed as ship diagnostics.
 
 **[Don't Look Down](https://dontlookdown.org)**  
 A full-stack typing speed app. FastAPI backend on Render, Cloudflare Pages frontend, Supabase/Postgres for auth + JWT.
 
-###  Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
