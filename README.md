@@ -11,7 +11,8 @@
 ### About Me
 
  &nbsp;I'm currently working on **A terminal UI "starship computer”.  Boots up in-character, reports real system/weather/time data framed as ship diagnostics, and keeps a persistent captain's log.**  
-🌱 &nbsp;I'm currently learning **GoLang**
+
+&nbsp;I'm currently learning **GoLang**
 
 ###  Tech Stack
 
