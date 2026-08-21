@@ -3,10 +3,6 @@
     <img src="assets/header-name.png" alt="Misael Ruiz-Gomez" width="500" />
   </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=460&height=44&lines=Software%20Engineering%20Student" alt="Typing headlines" />
-</p>
-<p align="center">
   SWE student @ UVU · Backend / DevOps Focus · building TUIs and sci-fi inspired side projects 
 </p>
 
