@@ -2,16 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Tapestry&size=35&pause=1000000000&color=1D5448&center=true&vCenter=true&width=500&height=60&lines=Misael+Ruiz-Gomez" alt="Misael Ruiz-Gomez" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tapestry&size=20&pause=1000000000&color=56d4dd&center=true&vCenter=true&width=460&height=40&lines=Software+Engineering+Student" alt="Software Engineering Student" />
-</p>
-<p align="center">
   SWE student @ UVU · Backend / DevOps Focus · building TUIs and sci-fi inspired side projects 
 </p>
 
 ---
 ### About Me
 - **Currently building:** a terminal UI "starship computer" — it boots up in-character, reports real system/weather/time data framed as ship diagnostics, and keeps a persistent captain's log.
-- **Currently exploring:** Cloud/SRE tooling (Docker, Kubernetes, Terraform)
+- **Currently Learning:** Cloud/SRE tooling (Docker, Kubernetes, Terraform)
 
 ### Featured Projects
 **[ships-computer](https://github.com/MisaelRuizGz/ships-computer)**  
