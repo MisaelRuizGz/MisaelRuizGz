@@ -7,12 +7,10 @@
 
 ---
 ### About Me
-- **Currently building:** a terminal UI "starship computer" — it boots up in-character, reports real system/weather/time data framed as ship diagnostics, and keeps a persistent captain's log.
+- **Currently building:** Inbetween projects
 - **Currently Learning:** Cloud/SRE tooling (Docker, Kubernetes, Terraform)
 
 ### Featured Projects
-**[ships-computer](https://github.com/MisaelRuizGz/ships-computer)**  
-A sci-fi themed terminal UI app (Go, Bubble Tea, Lip Gloss) — Act 1 of a larger terminal-based space exploration game. Reports live system/weather data framed as ship diagnostics.
 
 **[Don't Look Down](https://dontlookdown.org)**  
 A full-stack typing speed app. FastAPI backend on Render, Cloudflare Pages frontend, Supabase/Postgres for auth + JWT.
